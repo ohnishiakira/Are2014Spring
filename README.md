@@ -25,12 +25,10 @@ are
 | naotaco      |  ○  |  ○  |  ▲  |  ▲  |  ○  |
 | 1VQ9         |  x   | ○    |  ○  |  ○  |    ○ |
 | zakuni       |  ×   | ○    |  △  |  ×  |  ×  |
-| akix         |      |      |      |     |     |
 | ymrl         |  △  | ○    |  ○  |  ○  |  ○  |
 | nunnun       |  ×   |  ×  |  △  |  ○ |   ○|
 | kanny        |  x  | ○    |  ○  |  ○  |  x  |
 | TakumiBaba   |  x   |  ○  |   △  | ○  |  ○ |
-| kurokobo     |      |      |      |     |     |
 | shokai       | ◯ | ◯ | ◯ | ◯ | ◯ |
 | ohnishiakira | ◯ | ◯ | ◯ | ◯ | ◯ |
 
